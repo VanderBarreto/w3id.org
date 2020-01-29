@@ -1,0 +1,3 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule ^$ http://200.130.45.71:8080/dataverse/ibictteste [R=302,L]
